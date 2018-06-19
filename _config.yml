@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Skip RNN: Skipping State Updates in Recurrent Neural Networks"
-keywords:    "deep learning, recurrent neural networks, rnn"
+title:       "Video SalGAN: extending saliency prediction on videos"
+keywords:    "deep learning, GANs, saliency, video, epic kitchens"
 description: "Description here"
-source_link: "https://github.com/imatge-upc/skiprnn-2017-tfm"
+source_link: "https://github.com/imatge-upc/saliency-2018-videosalgan"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
