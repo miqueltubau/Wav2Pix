@@ -1,7 +1,7 @@
 ---
 title: "Presentation"
-bg: #9AD1F5
-color: black
+bg: 'blue'
+color: white
 fa-icon: youtube
 style: center
 ---
@@ -18,4 +18,4 @@ EgoMon Gaze and Video Dataset for Visual Saliency Predictions
 
 The [video of this talk](http://www.cvc.uab.es/?page_id=113) was kindly recoded by the [Computer Vision Center (CVC)](http://www.cvc.uab.cat/) from the [Government of Catalonia](https://governrepublica.org/) and the [Universitat Autònoma de Barcelona (UAB)](http://www.uab.cat/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rNjxeZHahVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UTomFStk1Cw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
