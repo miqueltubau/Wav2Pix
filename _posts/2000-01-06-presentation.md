@@ -1,9 +1,9 @@
 ---
-title: "Talks"
+title: "Presentation"
 bg: #9AD1F5
 color: black
-style: center
 fa-icon: youtube
+style: center
 ---
 
 Coming soon.
