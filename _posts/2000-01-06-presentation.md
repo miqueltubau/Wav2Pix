@@ -1,9 +1,9 @@
 ---
-title: "Presentation"
-bg: 'blue'
-color: white
-fa-icon: image
+title: "Talks"
+bg: #9AD1F5
+color: black
 style: center
+fa-icon: youtube
 ---
 
 Coming soon.
@@ -12,5 +12,10 @@ EgoMon Gaze and Video Dataset for Visual Saliency Predictions
 <iframe width="595" height="485" src="https://www.youtube.com/watch?v=UTomFStk1Cw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <center>
-<iframe  width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.youtube.com/watch?v=UTomFStk1Cw" title="EgoMon" target="_blank">EgoMon Gaze and Video Dataset for Visual Saliency Predictions</a> </strong> from <strong><a href="https://www.youtube.com/watch?v=UTomFStk1Cw" target="_blank">Universitat Politècnica de Catalunya</a></strong> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UTomFStk1Cw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <div style="margin-bottom:5px"> <strong> <a href="http://imatge-upc.github.io/egocentric-2016-saliency/" title="EgoMon" target="_blank">EgoMon Gaze and Video Dataset for Visual Saliency Predictions</a> </strong> from <strong><a href="https://www.upc.edu/en" target="_blank">Universitat Politècnica de Catalunya</a></strong> </div>
 </center>
+
+
+The [video of this talk](http://www.cvc.uab.es/?page_id=113) was kindly recoded by the [Computer Vision Center (CVC)](http://www.cvc.uab.cat/) from the [Government of Catalonia](https://governrepublica.org/) and the [Universitat Autònoma de Barcelona (UAB)](http://www.uab.cat/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rNjxeZHahVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
