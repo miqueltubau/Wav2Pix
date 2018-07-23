@@ -1,1 +1,1 @@
-## Video SalGAN: extending saliency prediction on videos
+## The Impact of Temporal Regularisation in Egocentric Saliency Prediction
