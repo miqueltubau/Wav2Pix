@@ -14,8 +14,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Video SalGAN: extending saliency prediction on videos"
-keywords:    "deep learning, GANs, saliency, video, epic kitchens"
+title:       "Temporal Regularization of Saliency Maps in Egocentric Videos "
+keywords:    "deep learning, saliency, video, epic kitchens"
 description: "Description here"
 source_link: "https://github.com/imatge-upc/saliency-2018-videosalgan"
 favicon:     "img/favicon.ico"
