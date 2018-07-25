@@ -1,1 +1,1 @@
-## The Impact of Temporal Regularisation in Egocentric Saliency Prediction
+## Temporal Regularization of Saliency Maps in Egocentric Videos
