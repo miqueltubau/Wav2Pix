@@ -1,7 +1,7 @@
 ---
 title: "Presentation"
-bg: 'blue'
-color: white
+bg: #9AD1F5
+color: black
 fa-icon: youtube
 style: center
 ---
