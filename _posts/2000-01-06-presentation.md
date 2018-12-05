@@ -1,8 +1,8 @@
 ---
 title: "Presentation"
-bg: white
+bg: #9AD1F5
 color: black
-fa-icon: youtube
+fa-icon: 
 style: center
 ---
 
