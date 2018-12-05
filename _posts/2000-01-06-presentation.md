@@ -1,6 +1,6 @@
 ---
 title: "Presentation"
-bg: #9AD1F5
+bg: white
 color: black
 fa-icon: youtube
 style: center
