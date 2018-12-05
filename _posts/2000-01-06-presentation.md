@@ -7,6 +7,7 @@ style: center
 ---
 
 <center>  
-  {{ site.baseurl }} assets/Wav2Pix_presentation.pdf
+
+  <iframe src="https://drive.google.com/file/d/1PkClYqE4Wu6Pw5NqOsYFpugl1Ce99xYU/preview" width="100%" height="100%"></iframe>
 
 </center>
