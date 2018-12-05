@@ -2,7 +2,7 @@
 title: "Presentation"
 bg: #9AD1F5
 color: black
-fa-icon: 
+fa-icon: slideshare
 style: center
 ---
 
