@@ -1,1 +1,1 @@
-## Temporal Regularization of Saliency Maps in Egocentric Videos
+## Speech-conditioned face generation using Generative Adversarial Networks
