@@ -5,7 +5,7 @@ Speech is a rich biometric signal that contains information about the identity, 
 
 We used [this](https://github.com/franroldans/tfm-franroldan-wav2pix) project as baseline.
 
-<figure><img src='assets/architecture.png'></figure>
+<figure><img src='assets/Architecture.png'></figure>
 
 ## Dependencies
 
