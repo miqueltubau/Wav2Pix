@@ -1,10 +1,7 @@
 # training pickle files path:
-train_faces_path: '/imatge/mtubau/projects/faces/Speech2Youtubers/balanced_pikles/faces/DA_balanced_faces_train.pkl'
-train_audios_path: '/imatge/mtubau/projects/faces/Speech2Youtubers/balanced_pikles/audios/DA_balanced_audios_train.pkl'
+train_faces_path: 
+train_audios_path: 
 
 # inference pickle files path:
-#inference_faces_path: '/imatge/mtubau/projects/faces/Speech2Youtubers/balanced_pikles/faces/DA_balanced_faces_inf.pkl'
-#inference_audios_path: '/imatge/mtubau/projects/faces/Speech2Youtubers/balanced_pikles/audios/DA_balanced_audios_inf.pkl'
-
-inference_faces_path: '/imatge/mtubau/projects/faces/Speech2Youtubers/balanced_pikles/faces/DA_balanced_faces_train.pkl'
-inference_audios_path: '/imatge/mtubau/projects/faces/Speech2Youtubers/balanced_pikles/audios/DA_balanced_audios_train.pkl'
+inference_faces_path: 
+inference_audios_path: 
