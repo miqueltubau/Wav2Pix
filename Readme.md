@@ -14,8 +14,17 @@ We used [this](https://github.com/franroldans/tfm-franroldan-wav2pix) project as
 
 This implementation only supports running with GPUs.
 
-## Usage
-### Training
+## Data
+
+Although having initially trained with 10 different identities, we can only publish the dataset for two of them, which have been the only ones in answering our request for working with their images and voice.
+
+You can store the paths for all the images/audio frames in a pickle file with:
+`scripts/generate_pickle.py`
+
+Once you have the pickle files with all the paths for both training and test images and audio frames, iunclude them in:
+`config.yaml`
+
+## Training
 
 `python runtime.py`
 
@@ -34,3 +43,17 @@ This implementation only supports running with GPUs.
 - `softmax_coef`: Paramete for the scale of the loss of the classifier on top of the embedding
 - `image_size` : Number of pixels per dimension. They are assumed to be squared. Two possible values: `64 | 128`. default = `64`
 - `inference` : Boolean for choosing whether train or test. default = `False`
+
+## References
+If the code of this repository was useful for your research, please cite our work:
+`@inproceedings{wav2pix2019icassp,
+  title={Wav2Pix: Speech-conditioned Face Generation 
+          using Generative Adversarial Networks},
+  author={Amanda Duarte, Francisco Roldan, Miquel Tubau, Janna Escur, 
+          Santiago Pascual, Amaia Salvador, Eva Mohedano, Kevin McGuinness, 
+           Jordi Torres and Xavier Giro-i-Nieto},
+  booktitle={2019 IEEE International Conference on Acoustics, Speech 
+            and Signal Processing (ICASSP)},
+  year={2019},
+  organization={IEEE}
+}`
