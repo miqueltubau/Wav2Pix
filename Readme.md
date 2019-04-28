@@ -22,7 +22,7 @@ You can store the paths for all the images/audio frames in a pickle file with:
 
 `scripts/generate_pickle.py`
 
-Once you have the pickle files with all the paths for both training and test images and audio frames, iunclude them in:
+Once you have the pickle files with all the paths for both train/test images and audio frames, include them in:
 
 `config.yaml`
 
