@@ -46,7 +46,9 @@ Once you have the pickle files with all the paths for both training and test ima
 
 ## References
 If the code of this repository was useful for your research, please cite our work:
-`@inproceedings{wav2pix2019icassp,
+
+`
+@inproceedings{wav2pix2019icassp,
   title={Wav2Pix: Speech-conditioned Face Generation 
           using Generative Adversarial Networks},
   author={Amanda Duarte, Francisco Roldan, Miquel Tubau, Janna Escur, 
@@ -56,4 +58,5 @@ If the code of this repository was useful for your research, please cite our wor
             and Signal Processing (ICASSP)},
   year={2019},
   organization={IEEE}
-}`
+}
+`
