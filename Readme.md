@@ -1,6 +1,6 @@
 # SPEECH-CONDITIONED FACE GENERATION USING GENERATIVE ADVERSARIAL NETWORKS
 
-## Intoduction
+## Introduction
 
 **Note:** This repository holds my final year and dissertation project during my time at the Image Processing Group (<em>Universitat Politècnica de Catalunya</em>). To obtain a more updated code, you can visit the official repo [here](https://github.com/imatge-upc/wav2pix).
 
