@@ -19,13 +19,25 @@ This implementation only supports running with GPUs.
 
 ## Data
 
-Although having initially trained with 10 different identities, we can only publish the dataset for two of them, which have been the only ones in answering our request for working with their images and voice.
+Although having initially trained with 10 different identities, we can only publish the dataset in relation to those who have answered our request for working with their images and voice.  
 
-You can store the paths for all the images/audio frames in a pickle file with:
+If you want to create your own dataset, it works as follows:  
+
+- Run `get_data.py`. It requires the path of a .csv file with the following information: the youtube url `Channel-URL`, the name of the youtuber `Name` and the gender `Gender`. The output dataset will consist on a folder for each of the youtubers specified in the .csv file as well as two folders (video/audio) in each of them containing the full video/audio downloaded.  
+
+- Run `preprocess_audio_frames.py` for audio preprocessing purposes.
+
+- Remove any file whose name does not finish like `*preprocessing_wav` in each audio folder.  
+
+- Run `face_detector.py` specifying the dataset path, a confidence threshold needed to compute the bounding boxes and the path of the haarcascade pretrained classifier (included in this repo in `/assets`)
+
+- The useful audio snippets will be stored in `DATASET-PATH/audio/NAME-OF-THE-DOWNLOADED-VIDEO_frames`. The useful youtuber faces will be stored in `DATASET-PATH/video/NAME-OF-THE-DOWNLOADED-VIDEO_cropped_frames`  
+
+Once the dataset is build, you can store the paths for all the images/audio frames in a pickle file with:
 
 `scripts/generate_pickle.py`
 
-Once you have the pickle files with all the paths for both train/test images and audio frames, include them in:
+Include both pickle files (train/test datasets) in:
 
 `config.yaml`
 
