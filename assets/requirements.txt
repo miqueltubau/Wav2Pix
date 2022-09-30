@@ -10,7 +10,7 @@ funcsigs==1.0.2
 futures==3.2.0
 h5py==2.7.1
 idna==2.6
-joblib==0.11
+joblib==1.2.0
 kiwisolver==1.0.1
 librosa==0.6.1
 llvmlite==0.23.2
