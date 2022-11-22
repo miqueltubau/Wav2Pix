@@ -20,7 +20,7 @@ numba==0.38.1
 numpy==1.14.3
 olefile==0.44
 pandas==0.23.4
-Pillow==5.1.0
+Pillow==9.3.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2018.3
